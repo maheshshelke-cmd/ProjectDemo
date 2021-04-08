@@ -7,6 +7,6 @@ public class Test2 {
 	@Test
 	public void disp2()
 	{
-		System.out.println("Hello disp22222");
+		System.out.println("Hello disp22222 Git");
 	}
 }
